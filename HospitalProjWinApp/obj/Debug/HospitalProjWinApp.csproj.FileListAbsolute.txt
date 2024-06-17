@@ -1,0 +1,16 @@
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\bin\Debug\HospitalProjWinApp.exe.config
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\bin\Debug\HospitalProjWinApp.exe
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\bin\Debug\HospitalProjWinApp.pdb
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\obj\Debug\HospitalProjWinApp.csproj.AssemblyReference.cache
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\obj\Debug\HospitalProjWinApp.Login.resources
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\obj\Debug\HospitalProjWinApp.Properties.Resources.resources
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\obj\Debug\HospitalProjWinApp.csproj.GenerateResource.cache
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\obj\Debug\HospitalProjWinApp.csproj.CoreCompileInputs.cache
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\obj\Debug\HospitalProjWinApp.exe
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\obj\Debug\HospitalProjWinApp.pdb
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\obj\Debug\HospitalProjWinApp.Form1.resources
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\obj\Debug\HospitalProjWinApp.addDoctor.resources
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\obj\Debug\HospitalProjWinApp.showdoctor.resources
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\obj\Debug\HospitalProjWinApp.showpatient.resources
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\obj\Debug\HospitalProjWinApp.index.resources
+D:\project folder\HospitalProjWinApp\HospitalProjWinApp\obj\Debug\HospitalProjWinApp.Home.resources
